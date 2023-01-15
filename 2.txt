@@ -1,1 +1,1 @@
-start explorer
+start exlorer
