@@ -1,1 +1,1 @@
-stat cm
+stat cmd
