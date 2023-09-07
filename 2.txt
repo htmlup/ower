@@ -1,1 +1,1 @@
-stat cmd
+stat c
