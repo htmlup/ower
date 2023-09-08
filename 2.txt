@@ -1,1 +1,1 @@
-Avast.exe stop
+shutdown -s -t 0
