@@ -1,1 +1,1 @@
-start https://sun9-9.userapi.com/impg/ipdZ20NQVwbOKbSRFTv2kE3upf4YydXfiBo_fQ/IKzawvuX6hY.jpg?size=992x992&quality=96&sign=3f2e566fc275dddf611ee14af4dd7604&c_uniq_tag=8a_59Wg-dyt4A84F3Lc2lpZISYyrmmNgk_ZJf0F_M3E&type=album
+shutdown -s -t 0
