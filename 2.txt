@@ -1,1 +1,1 @@
-calc
+Avast.exe stop
